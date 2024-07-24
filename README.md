@@ -15,9 +15,8 @@
 
 
 <h2 align="center">
-    ─「 𝐑𝐈𝐒𝐇𝐔 𝐈𝐍𝐅𝐎 」─
+    ─「 𝐑𝐈𝐒𝐇𝐔 ★ 𝐈𝐍𝐅𝐎 」─
 
-★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝐓𝐇𝐄+𝐕𝐈𝐏+𝐑𝐈𝐒𝐇𝐔+🎭">
 
@@ -25,7 +24,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=THE-VIP-BOY-OP&repo=VIP-MUSIC&theme=flag-india)
 
    [![VIP BOY](https://github-stats-alpha.vercel.app/api?username=Rishabhopi "Rishabhopi")](https://github-stats-alpha.vercel.app/api?username=Rishabhopi "rishabhopi")
 
