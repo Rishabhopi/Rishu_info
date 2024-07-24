@@ -27,7 +27,6 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=THE-VIP-BOY-OP&repo=VIP-MUSIC&theme=flag-india)
 
-[![GIF](https://github.com/THE-VIP-BOY-OP/VIP-MUSIC/blob/main/THE-VIP-BOY-OP.gif)](https://github.com/THE-VIP-BOY-OP)
    [![VIP BOY](https://github-stats-alpha.vercel.app/api?username=Rishabhopi "Rishabhopi")](https://github-stats-alpha.vercel.app/api?username=Rishabhopi "rishabhopi")
 
 
@@ -43,7 +42,7 @@
 
 
 <h3 align="center">
-    ─「 DEPLOY ON ANYWHERE」─
+    ─「 𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐀𝐍𝐘𝐖𝐇𝐄𝐑𝐄 」─
 
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝐈𝐟+𝐀𝐧𝐲+𝐄𝐫𝐫𝐨𝐫+𝐓𝐡𝐞𝐧+𝐒𝐞𝐧𝐝+𝐄𝐫𝐫𝐨𝐫+𝐈𝐧+𝐕𝐢𝐩+𝐃𝐦+...">
